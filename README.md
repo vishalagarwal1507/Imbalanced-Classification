@@ -12,7 +12,7 @@ This project gives a walk-through of different stages of the predictive analytic
 <i>Feature Selection</i> - Selecting feature which are important for model building using chi-squaretest.</br>
 <i>Feature Conversion</i> - Converting features in number format for the model. </br>
 <i>Model Building</i> - Training the model by balancing the data using sampling techniques.</br>
-<i>Evaluatong Model Performance</i> - Data is imbalanced therfore using evaluation metric like recall and precision.</br>
+<i>Evaluating Model Performance</i> - Data is imbalanced therfore using evaluation metric like recall and precision.</br>
 
 ## Features
 
